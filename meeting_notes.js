@@ -27,5 +27,5 @@ Useful resources:
 - Exploring ES6: http://exploringjs.com/es6/
 - Pony foo blog: https://ponyfoo.com/articles/tagged/es6
 - EcmaScript 6 new features and comparison: http://es6-features.org/
-
+- Mozilla Hacks: https://hacks.mozilla.org/category/es6-in-depth/
 */
